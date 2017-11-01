@@ -1,0 +1,1 @@
+select authority_id,salary,employee_startdate,admin_id,a.authority_info.person_name,a.authority_info.blood_group,a.authority_info.person_dob,a.authority_info.contact_number from authority a;

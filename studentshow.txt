@@ -1,0 +1,1 @@
+select student_id,school_type,student_class,guardian_name,s.STUDENT_INFO.person_name, s.STUDENT_INFO.blood_group,s.STUDENT_INFO.person_dob,s.STUDENT_INFO.contact_number from student s;
